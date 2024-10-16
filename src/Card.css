@@ -5,7 +5,7 @@
     width: 16vw;
     justify-content: left;
     padding: 16px 12px;
-    background-color: #ffffff;
+    background-color: #E6E6FA;
     border-radius: 8px;
     gap: 8px;
     /* box-shadow: #000000; */
@@ -16,7 +16,7 @@
 }
 
 .cardId {
-    color: #6C7077;
+    color: #7b9dd8;
     font-family: "Inter";
     font-size: 12px;
     font-style: "normal";

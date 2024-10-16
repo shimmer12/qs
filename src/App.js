@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 import Navbar from './Navbar';
-import Content from './Content'; // Import the new Content component
+import Content from './Content';
+ // Import the new Content component
 
 function App() {
   const [Grouping, setGrouping] = useState(localStorage.getItem('grouping'));

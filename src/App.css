@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #E6E6FA; /* Changed to lilac */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,8 +36,9 @@
     transform: rotate(360deg);
   }
 }
-@media screen and (max-width:600px) {
-  .fullBody{
+
+@media screen and (max-width: 600px) {
+  .fullBody {
     display: flex;
     flex-direction: column;
     /* align-items: center; */
